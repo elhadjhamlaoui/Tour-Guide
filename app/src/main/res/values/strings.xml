@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="attraction_name">Title</string>
+
+    <string name="maps_package_name">com.google.android.apps.maps</string>
+    <string name="query">"?q="</string>
+    <string name="geo">"geo:"</string>
+    <string name="video">"video"</string>
+
+    <string name="attraction">""attraction""</string>
+    <string name="section_number">"section_number"</string>
+    <string name="list">"list"</string>
+
+
+    <string name="restaurants_title">Restaurants</string>
+    <string name="hotels_title">Hotels</string>
+    <string name="beaches_title">Beaches</string>
+    <string name="museums_title">Museums</string>
+
+    <string name="restaurant_name1">"Le Méditerranéen"</string>
+    <string name="restaurant_name2">"le Petit Chalet"</string>
+    <string name="restaurant_name3">"Bab Errayane"</string>
+    <string name="restaurant_name4">"Le Corsaire"</string>
+
+    <string name="restaurant_desc1">Le Méditerranéen restaurant is located in the Es Seddikia district, in the municipality of Oran.\n\n
+        Specialty\n
+        In a pleasant and warm setting, the restaurant Le Méditerranéen offers dishes based on fresh fish as well as innovative culinary dishes. The restaurant also offers meat dishes.\n\n
+        Opening hours\n
+        The restaurant is open from Saturday to Thursday from 11:30 to 15:00 and 18:30 to 23:30.\n\n
+        On Fridays, it is open only in the evening.\n\n
+        Rate\n
+        Approximately 2500 dinars per person.\n\n
+        Coordinates\n
+        The Mediterranean restaurant\n\n
+        Address: Mohamed Fertas Avenue, Haï Es-Seddikia, 31000, Oran, Algeria.\n\n
+        Telephone: +213 (0) 41 42 95 13\n\
+        Mobile: +213 (0) 560 00 41 00</string>
+
+    <string name="restaurant_desc2">le Petit Chalet restaurant is a gastronomic establishment located in the municipality of Kristel about ten kilometers east of the city center of Oran.\n\n
+        The restaurant is ideally located at the edge of a cliff with a magnificent view of the sea. The building, built in 1926 has several terraces with sea views.\n\n
+        Specialty\nThe property mainly serves seafood dishes.\n\n
+        Rate\nAround 2000 dinars per person.\n\n
+        Coordinates\nThe Petit Chalet restaurant\n\nAddress: Ain Franine Road, Kristel, 31000, Oran, Algeria.\n\nTelephone: +213 (0) 542 35 66 47</string>
+
+    <string name="restaurant_desc3">Bab Errayane is a fast food restaurant, located in the city center of Oran, on the very commercial street Khemisti.</string>
+    <string name="restaurant_desc4">"Le Corsaire is located in the old quarter of Sidi El Houari, in the municipality of Oran, near the Promenade Ibn Badis and the Palais du Bey.\n\n
+        The Corsair is considered the most famous seafood restaurant in Oran. It has a small outdoor terrace."</string>
+
+    <string name="hotel_name1">"Sheraton"</string>
+    <string name="hotel_name2">"Méridien"</string>
+    <string name="hotel_name3">"Liberté"</string>
+    <string name="hotel_name4">"Les Ambassadeurs"</string>
+
+    <string name="hotel_desc1">"The Sheraton Hotel is a 5-star hotel located a short walk from the center of Oran in the Seddikia district overlooking the beautiful bay of Oran."</string>
+    <string name="hotel_desc2">"Le Méridien is a luxury 5-star hotel located a few kilometers east of downtown Oran."</string>
+    <string name="hotel_desc3">"The "Liberty Hotel" is a 4-star hotel establishment located in the area of seats near the University of Oran (USTO)."</string>
+    <string name="hotel_desc4">"Les Ambassadeurs hotel is a 3-star hotel located in the district of Haï Karama in Oran."</string>
+
+    <string name="beach_name1">Andalouses</string>
+    <string name="beach_name2">Paradis Plage</string>
+    <string name="beach_name3">Saint-Roch</string>
+    <string name="beach_name4">La plage de Bomo</string>
+
+    <string name="beach_desc1">"The Andalouses beach is located in the town of El Ançor, in the wilaya of Oran.\n\n
+        It is shared between a private beach (fee) and a public beach (free). At the private beach, the rental of chairs, tables and umbrellas is possible around 200 to 400 dinars."</string>
+    <string name="beach_desc2">"Paradis Plage is located between Bouisseville beach and Clairefontaine beach, in the municipality of Aïn El Turk, in the wilaya of Oran."</string>
+    <string name="beach_desc3">Saint Roch is a beach located in the town of Ain El Turk, exactly between the tip of Saint Roch and the beach of Trouville. From the beach you will have a view of the Rock of the Old and the Djebel Santon.</string>
+    <string name="beach_desc4">"Bomo beach is located between the beach of Coralès and the beach of Etoile, on the commune of Bousfer, in the wilaya of Oran."</string>
+
+    <string name="museum_name1">Le musée « Ahmed Zabana »</string>
+    <string name="museum_name2">"Le musée d'art moderne"</string>
+    <string name="museum_name3">Le musée du Moudjahid</string>
+
+    <string name="museum_desc1">The museum "Ahmed Zabana" is located in the district of Haï Sidi El Bachir in Oran.</string>
+    <string name="museum_desc2">"The Museum of Modern Art (MAMO) is located on the famous street Larbi Ben M'Hidi in the historic heart of the city of Oran."</string>
+    <string name="museum_desc3">The Mujahid Museum is located near the headquarters of Sonatrach and the Great Ibn Badis Mosque in Oran.</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="picture">picture</string>
+</resources>
